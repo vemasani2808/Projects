@@ -1,0 +1,35 @@
+wake up at 4 am and then start studying to 8 am ( 4 hrs) + 8 to 9 do that exercise, eat two idly and then do yoga + 9 to 1 + 1 to 2 eat and do watch some tv 
+or youtube + 2 to 7 study + 7 to 8 do some execise and eat + 8 to 9 study and then sleep
+
+drink coriander water
+
+14 hrs study per day
+
+Day 1 : 
+
+Study the java for 7 hrs and then study angular for 7 hrs
+
+please try to implement this
+
+
+
+1) Java coding concepts (300 problems) 150 easy, 100 mediumm 50 hard
+2) Angular
+3) React and html and css
+4) Java script and php
+5) Spring boot
+6) SQL
+7) hosting a complete web application
+
+1 day + 6 days + 5+ 5+ 7+ 7+ 7+ 7 
+
+
+
+hosting a complete web application
+
+
+
+hadoop and spark (2 months) project 
+
+2*30*7 = 400 hrs (200 hrs spark) + (200 hrs hadoop)
+

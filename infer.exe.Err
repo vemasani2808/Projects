@@ -1,0 +1,20 @@
+--------
+C:\Users\venka\OneDrive\Desktop\capstone\Code folder\C++, snap and glib folders\infer.exe.Err
+Tue Mar 26 21:10:36 2024
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 351
+--------
+--------
+C:\Users\venka\OneDrive\Desktop\capstone\Code folder\C++, snap and glib folders\infer.exe.Err
+Mon Apr 01 04:08:28 2024
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 351
+--------
+--------
+C:\Users\venka\OneDrive\Desktop\capstone\Code folder\C++, snap and glib folders\infer.exe.Err
+Mon Apr 01 04:08:37 2024
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 351
+--------
+--------
+C:\Users\venka\OneDrive\Desktop\capstone\Code folder\C++, snap and glib folders\infer.exe.Err
+Tue Apr 09 14:15:42 2024
+Execution stopped: ((this!=GetNullRStr())&&(Refs==0))||((this==GetNullRStr())&&(Refs==1)), file ./snap/../glib/dt.h, line 351
+--------

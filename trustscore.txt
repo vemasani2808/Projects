@@ -1,0 +1,16 @@
+collect only the cascades which have the specific website id to which we are calculating the trust score and engagement score for..
+
+Trust Score : Calculate the sum of the base score and bonus score , base score is 0.1 for all of the websites
+
+1)bonus score is classified as :
+
+(i)count the number of times the website appears across all the cascades as a source one ,that means the first node in a cascade
+(ii)for each of the cascade individually ,calculate the mid time stamp, that is the last time stamp in a cascade + first time stamp in a cascade /2, then check if the website
+we are calculating is at or before the mid timestamp and after the source node, if so then increment mid count by +1
+
+now we have the appearnces as the source node across all the cascades and also the mid count 
+
+now bonus score is 0.8* appearances as source node + 0.2* midcount 
+
+
+totally trust score is base score+bonus score now
